@@ -5,6 +5,7 @@ library(naivebayes)
 library(ggplot2)
 library(caret)
 library(e1071)
+library(lattice)
 
 #loading test and train splitted data
 # Preparing model of classification for greater or less than equal to 50k salary
